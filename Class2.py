@@ -1,6 +1,6 @@
 class Emp:
-    def Introduce_Robot(self):
-        print("My Name is "+self.name)
+    def Introduce_Robot(a):
+        print("My Name is "+a.name)
 e=Emp()
 f=Emp()
 
