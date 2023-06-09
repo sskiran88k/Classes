@@ -4,8 +4,7 @@ class kiran:
     name="Kiran"
     def display(k):
         print("New Method")
-    
-
+        
 a=kiran() #Object Declaration
 print(a.var)
 print(a.data)
